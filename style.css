@@ -18,3 +18,9 @@ a:hover {
 .fa-arrow-up {
     font-size: 12px;
 }
+
+@media only screen and (max-width : 640px){
+    image {
+        width: 100%;
+    }
+}
